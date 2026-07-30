@@ -1,0 +1,18 @@
+Software Engineer • System Architect • AI Enthusiast
+
+Building software with a focus on architecture, documentation, and long-term maintainability.
+
+Interested in:
+• Artificial Intelligence
+• Local-First Systems
+• Knowledge Engineering
+• Operating Systems
+• Software Architecture
+
+Currently building:
+• BAES (Babak AI Engineering Standard)
+• BabakOS
+• AI-powered engineering tools
+
+"First, solve the right problem.
+Then, build the right solution."
